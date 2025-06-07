@@ -1,0 +1,3 @@
+@url = https://friendly-space-happiness-q767497w77rgcxx97-3000.app.github.dev/
+
+GET {{url}}/api/bibs
